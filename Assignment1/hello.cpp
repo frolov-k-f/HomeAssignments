@@ -10,6 +10,6 @@ void myproject::loopHello() {
     std::string name;
     while (true) {
         std::cin >> name;
-        str::cout << "Hello, " << name << "!" << std::endl;
+        std::cout << "Hello, " << name << "!" << std::endl;
     }
 }

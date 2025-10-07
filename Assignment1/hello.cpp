@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include "hello.h"
 
 void myproject::sayHello() {
     std::cout << "Hello, world!" << std::endl;

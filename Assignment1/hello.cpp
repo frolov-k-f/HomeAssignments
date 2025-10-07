@@ -1,0 +1,14 @@
+#include <iostream>
+#include <string>
+
+void myproject::sayHello() {
+    std::cout << "Hello, world!" << std::endl;
+}
+
+void myproject::loopHello() {
+    std::string name;
+    while (true) {
+        std::cin >> name;
+        str::cout << "Hello, " << name << "!" << std::endl;
+    }
+}

@@ -8,7 +8,6 @@
 
 int main() {
     myproject::sayHello();
-    myproject::loopHello();
     return 0;
 }
 

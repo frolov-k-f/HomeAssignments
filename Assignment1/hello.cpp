@@ -3,11 +3,8 @@
 #include "hello.h"
 
 void myproject::sayHello() {
-    std::cout << "Hello, world!" << std::endl;
-}
-
-void myproject::loopHello() {
     std::string name;
+    std::cout << "Hello, world!" << std::endl;
     while (true) {
         std::cin >> name;
         std::cout << "Hello, " << name << "!" << std::endl;

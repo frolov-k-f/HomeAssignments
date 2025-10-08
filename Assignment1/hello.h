@@ -3,6 +3,5 @@
 
 namespace myproject {
     void sayHello();
-    void loopHello();
 }
 #endif

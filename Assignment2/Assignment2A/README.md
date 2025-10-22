@@ -7,5 +7,5 @@ st141840@student.spbu.ru
 Home assignment 2a. Reads source.pdf and reverses it. Then creates new file with reversed source.pdf
 ## Build
 make
-##Run
+## Run
 ./reverseFile

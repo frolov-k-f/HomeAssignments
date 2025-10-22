@@ -1,3 +1,9 @@
+/* 
+ * Kirill Frolov
+ * st141840@student.spbu.ru
+ * My project number one
+ */
+
 #include <iostream>
 #include <string>
 #include "hello.h"
